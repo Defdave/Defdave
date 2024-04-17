@@ -1,5 +1,10 @@
-<h3 align="center">Experienced web developer with a year of expertise in HTML, CSS, JavaScript, and frameworks like React and Next.js. Proficient in Firebase, Tailwind CSS, and Sass. Passionate about leveraging technology to create stunning, user-centric websites for clients. Enthusiastic about data science, machine learning, and artificial intelligence. Continuously expanding knowledge to integrate cutting-edge solutions into web development projects. Committed to delivering excellence and driving innovation in every endeavor.</h3>
-<img align="left" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTkeasOt6g9fH_TVU5qjpkg-mUhdbjnEQAat6UsMZ6Zw&s" alt="david-ige" height="30" width="40" />
+<h3 align="left">Experienced web developer with a year of expertise in HTML, CSS, JavaScript, and frameworks like React and Next.js. Proficient in Firebase, Tailwind CSS, and Sass. Passionate about leveraging technology to create stunning, user-centric websites for clients. Enthusiastic about data science, machine learning, and artificial intelligence. Continuously expanding knowledge to integrate cutting-edge solutions into web development projects. Committed to delivering excellence and driving innovation in every endeavor.</h3>
+<img alt="Coder GIF" height=250 width=350 src="https://analyticsindiamag.com/wp-content/uploads/2018/12/developer-dribbble.gif" />
+<br>
+<img alt="Coder GIF" height=250 width=350 src="https://physicsgurukul.files.wordpress.com/2019/02/character-1.gif" />
+<br>
+<img alt="Coder GIF" height=250 width=350 src="https://cdn.dribbble.com/users/1187836/screenshots/6539429/programer.gif" />
+<br>
 
 - 🔭 I’m currently working on [my portfolio](https://defdave-portfolio.vercel.app/)
 
