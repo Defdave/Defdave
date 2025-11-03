@@ -10,7 +10,7 @@
 
 ### 👨‍💻 About Me
 
-I’m a passionate **software engineer** with hands-on experience in **HTML, CSS, JavaScript**, and modern frameworks like **React** and **Next.js**.  
+I’m a passionate **software engineer** with experience in **HTML, CSS, JavaScript**, and modern frameworks like **React** and **Next.js**.  
 I specialize in building responsive, high-performing, and visually engaging web applications using **Tailwind CSS**, **Firebase**, and **Sass**.  
 
 Beyond the frontend, I work with **Node.js**, **Python**, and **Django** to develop powerful backend systems and REST APIs.  
@@ -58,8 +58,8 @@ I’m currently expanding my expertise in **DevOps**, focusing on automation, CI
 
 ### 🌐 Connect With Me
 <p align="left">
-<a href="https://twitter.com/anomalyforce" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/david-ige" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+<a href="https://x.com/_404dave" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="X (Twitter)" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/defdave/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
 </p>
 
 ---
@@ -87,6 +87,19 @@ I’m currently expanding my expertise in **DevOps**, focusing on automation, CI
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40" alt="Git"/>
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" height="40" alt="Postman"/>
   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" height="40" alt="Figma"/>
+</p>
+
+---
+
+### 📊 GitHub Stats & Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=defdave&show_icons=true&theme=tokyonight" alt="David Ige's GitHub stats" height="160" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=defdave&theme=tokyonight" alt="GitHub Streak" height="160" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=defdave&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ---
