@@ -95,7 +95,7 @@ I’m currently expanding my expertise in **DevOps**, focusing on automation, CI
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=defdave&show_icons=true&theme=tokyonight" alt="David Ige's GitHub stats" height="160" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=defdave&theme=tokyonight" alt="GitHub Streak" height="160" />
+  <img src="https://streak-stats.demolab.com/?user=defdave&theme=tokyonight" alt="GitHub Streak" height="160" />
 </p>
 
 <p align="center">
